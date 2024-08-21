@@ -2,3 +2,8 @@ analytics.google.com
 mouseflow.com
 tools.mouseflow.com
 browser.sentry-cdn.com
+analytics.google.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
