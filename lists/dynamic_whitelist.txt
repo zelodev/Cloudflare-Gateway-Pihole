@@ -7,3 +7,4 @@ api.spotify.com
 *.click.discord.com
 *.s1-filecr.xyz
 *.s.youtube.com
+trueachievements.com
