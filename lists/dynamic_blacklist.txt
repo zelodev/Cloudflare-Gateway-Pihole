@@ -1,1 +1,4 @@
-
+analytics.google.com
+mouseflow.com
+tools.mouseflow.com
+browser.sentry-cdn.com
