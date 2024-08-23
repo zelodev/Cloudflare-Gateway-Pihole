@@ -1,8 +1,10 @@
 afs.googlesyndication.com
+ad.doubleclick.net
 stats.g.doubleclick.net
 events3alt.adcolony.com
 wd.adcolony.com
 static.media.net
+google-analytics.com
 click.googleanalytics.com
 ssl.google-analytics.com
 adm.hotjar.com
