@@ -65,6 +65,11 @@ eastus-applicationinsights.azure.com
 admob-app-id-firebaseio.com
 e.crashlytics.com
 events.backtrace.io
+adservice.google.com
+appmetrica.yandex.ru
+browser.sentry-cdn.com
+sessions.bugsnag.com
 opentelemetry.io
 settings.crashlytics.com
 api.instabug.com
+analytics.google.com
