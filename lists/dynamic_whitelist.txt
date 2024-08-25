@@ -1,4 +1,6 @@
 *.click.discord.com
 *.s1-filecr.xyz
-s.youtube.com
+*.s.youtube.com
 trueachievements.com
+ytimg.com
+yt4.ggpht.com
