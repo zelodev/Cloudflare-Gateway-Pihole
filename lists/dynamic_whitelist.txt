@@ -3,4 +3,5 @@
 *.s.youtube.com
 trueachievements.com
 ytimg.com
+i.ytimg.com
 yt4.ggpht.com
