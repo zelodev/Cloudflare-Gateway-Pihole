@@ -14,3 +14,4 @@ i9.ytimg.com
 youtubei.googleapis.com
 ytimg-edge-static.l.google.com
 fonts.gstatic.com
+tracker.gg
