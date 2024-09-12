@@ -15,3 +15,5 @@ youtubei.googleapis.com
 ytimg-edge-static.l.google.com
 fonts.gstatic.com
 tracker.gg
+anydebrid.com
+debridhub.com
