@@ -17,3 +17,4 @@ fonts.gstatic.com
 tracker.gg
 anydebrid.com
 debridhub.com
+share.sharafdg.com
