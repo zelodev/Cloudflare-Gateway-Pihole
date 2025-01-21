@@ -11,7 +11,7 @@ class GithubAPI:
     HEADERS = {
         "Authorization": f"Bearer {os.getenv('GITHUB_TOKEN')}",
         "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Python http.client"
+        "User-Agent": "Mozilla/5.0"
     }
 
     @staticmethod
@@ -83,11 +83,6 @@ def get_list_items_cached(cache, list_id):
     cache["mapping"][list_id] = items
     save_cache(cache)
     return items
-
-
-def split_domain_list(domains, chunk_size):
-    for i in range(0, len(domains), chunk_size):
-        yield domains[i:i + chunk_size]
 
 
 def safe_sort_key(list_item):
