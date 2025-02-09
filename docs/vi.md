@@ -2,13 +2,15 @@
 
 ### Cập nhật mới
 
+* Nếu nhận được e-mail kêu bị dừng Github Action, đừng lo lắng, Github Action sẽ tiếp tục chạy mãi mãi.
+
 * Logic mới, sẽ cập nhật chính xác tên miền thay đổi, không gây thiệt hại lên máy chủ Cloudflare, có thể chạy cron hàng giờ
 
 * Các bạn phải xoá các danh sách được tải lên bởi script khác để tạo số danh sách trống
 
 * Đừng quan tâm đến số danh sách được tạo ra bởi script.
 
-* Có thể mình sẽ tạo script khác để cập nhật danh sách trắng...
+* Thêm danh sách trắng riêng ở [Cloudflare-Gateway-Allow](https://github.com/luxysiv/Cloudflare-Gateway-Allow)...
 
 ### Dành cho các bạn Việt Nam
 ---
