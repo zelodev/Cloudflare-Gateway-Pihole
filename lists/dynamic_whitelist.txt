@@ -12,3 +12,4 @@ fonts.gstatic.com
 tracker.gg
 share.sharafdg.com
 tplinkdns.com
+dailyuploads.net
