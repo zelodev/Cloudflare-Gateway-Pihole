@@ -13,3 +13,4 @@ tracker.gg
 share.sharafdg.com
 tplinkdns.com
 dailyuploads.net
+d900.dailyuploads.net
