@@ -286,3 +286,7 @@ ad.doubleclick.net
 static.doubleclick.net
 m.doubleclick.net
 mediavisor.doubleclick.net
+ads-api.twitter.com
+ads.pinterest.com
+ads.youtube.com
+ads.tiktok.com
