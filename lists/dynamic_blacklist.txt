@@ -278,3 +278,4 @@ sm.mcafee.com
 su3.mcafee.com
 updatekeepalive.mcafee.com
 smetrics.mcafee.com
+ads.mcafee.com
