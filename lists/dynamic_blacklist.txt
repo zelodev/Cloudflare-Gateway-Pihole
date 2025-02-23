@@ -282,3 +282,4 @@ ads-api.twitter.com
 ads.pinterest.com
 ads.youtube.com
 ads.tiktok.com
+safethings.avira.com
