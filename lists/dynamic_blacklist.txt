@@ -283,3 +283,6 @@ ads.pinterest.com
 ads.youtube.com
 ads.tiktok.com
 safethings.avira.com
+vaultify.cloud
+filelattice.cfd
+filecaddy.cfd
