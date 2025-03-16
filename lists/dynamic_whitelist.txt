@@ -54,3 +54,10 @@ ichnaea-web.netflix.com
 104.24.0.0
 172.64.0.0
 131.0.72.0
+cineby.app
+db.cineby.app
+image.tmdb.org
+backend.cineby.app
+api.videasy.net
+vid.galaxynewplanets.site
+cca.megafiles.store
