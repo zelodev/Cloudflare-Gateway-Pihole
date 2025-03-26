@@ -68,3 +68,5 @@ megafiles.store
 cca.megafiles.store
 pharog.com
 www.pharorg.com
+drugeye.pharorg.com
+www.drugeye.pharorg.com
