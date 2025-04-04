@@ -9,6 +9,7 @@ manifest.googlevideo.com
 youtubei.googleapis.com
 ytimg-edge-static.l.google.com
 fonts.gstatic.com
+fonts.googleapis.com
 tracker.gg
 share.sharafdg.com
 tplinkdns.com
@@ -66,7 +67,7 @@ galaxynewplanets.site
 vid.galaxynewplanets.site
 megafiles.store
 cca.megafiles.store
-pharog.com
+pharorg.com
 www.pharorg.com
 drugeye.pharorg.com
 www.drugeye.pharorg.com
