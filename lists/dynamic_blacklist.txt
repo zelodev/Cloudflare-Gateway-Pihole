@@ -286,3 +286,7 @@ safethings.avira.com
 vaultify.cloud
 filelattice.cfd
 filecaddy.cfd
+media.fastclick.net
+ads.facebook.com
+ads.reddit.com
+googleadservices.com
