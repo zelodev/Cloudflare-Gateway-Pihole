@@ -68,9 +68,7 @@ vid.galaxynewplanets.site
 megafiles.store
 cca.megafiles.store
 pharorg.com
-www.pharorg.com
 drugeye.pharorg.com
-www.drugeye.pharorg.com
 dis.gd
 discord-activities.com
 discord.co
@@ -106,3 +104,7 @@ steamstatic.com.8686c.com
 steamusercontent.com
 valve.net
 valvesoftware.com
+tedata.net
+megaplusredirection.tedata.net
+208.98.35.84
+142.251.37.163
