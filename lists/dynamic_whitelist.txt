@@ -110,5 +110,7 @@ megaplusredirection.tedata.net
 142.251.37.163
 ctrk.klclick.com
 nym.com
+nymvpn.com
+nymtech.net
 one.one.one.one
 quad9.net
