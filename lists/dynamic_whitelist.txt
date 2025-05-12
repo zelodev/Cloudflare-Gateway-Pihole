@@ -143,6 +143,17 @@ cdn.optimizely.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdnjs.cloudflare.com
+akamaihd.net
+akamaitechnologies.com
+akamaized.net
+edgekey.net
+azureedge.net
+amazonaws.com
+s3.amazonaws.com
+aws.amazon.com
+ajax.googleapis.com
+apis.google.com
+fastly.net
 s.ytimg.com
 s2.youtube.com
 i.ytimg.com
@@ -175,4 +186,3 @@ w9.web-t.whatsapp.com
 web-t.whatsapp.com
 dev-web-beta.whatsapp.com
 up.web.whatsapp.com
-cyberdrop.me
