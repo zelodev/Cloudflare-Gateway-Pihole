@@ -306,3 +306,5 @@ m.yap.yahoo.com
 cdn.samsungcloudsolution.com
 sb.scorecardresearch.com
 analytics.samsungknox.com
+cookielaw.org
+cdn.cookielaw.org
