@@ -120,7 +120,6 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
-gstaticadssl.l.google.com
 mtalk.google.com
 outlook.office365.com
 login.microsoftonline.com
@@ -148,9 +147,6 @@ akamaitechnologies.com
 akamaized.net
 edgekey.net
 azureedge.net
-amazonaws.com
-s3.amazonaws.com
-aws.amazon.com
 ajax.googleapis.com
 apis.google.com
 fastly.net
