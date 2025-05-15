@@ -186,3 +186,8 @@ up.web.whatsapp.com
 optimizationguide-pa.googleapis.com
 android-context-data.googleapis.com
 lh5.googleusercontent.com
+youtube-ui.l.google.com
+ggpht.com
+accounts.youtube.com
+yt.be
+img.youtube.com
