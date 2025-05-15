@@ -183,3 +183,6 @@ w9.web-t.whatsapp.com
 web-t.whatsapp.com
 dev-web-beta.whatsapp.com
 up.web.whatsapp.com
+optimizationguide-pa.googleapis.com
+android-context-data.googleapis.com
+lh5.googleusercontent.com
