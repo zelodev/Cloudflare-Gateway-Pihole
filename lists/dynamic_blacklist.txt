@@ -352,3 +352,8 @@ wcf.seven1029.com
 foodin.site
 t1k22.c8xwor.com
 dgmxn.c8xwor.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+hotjar-analytics.com
+d.reddit.com
