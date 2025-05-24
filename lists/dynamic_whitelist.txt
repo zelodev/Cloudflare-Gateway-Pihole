@@ -192,3 +192,4 @@ accounts.youtube.com
 yt.be
 img.youtube.com
 arc.msn.com
+zombie.duolingo.com
