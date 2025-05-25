@@ -358,3 +358,4 @@ analytics.s3.amazonaws.com
 hotjar-analytics.com
 d.reddit.com
 msn.org
+partnerads.ysm.yahoo.com
