@@ -193,3 +193,4 @@ yt.be
 img.youtube.com
 arc.msn.com
 zombie.duolingo.com
+workers.dev
