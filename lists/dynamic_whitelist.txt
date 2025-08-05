@@ -76,3 +76,5 @@ img.youtube.com
 zombie.duolingo.com
 workers.dev
 hotdebrid.com
+activity.windows.com
+continuum.dds.microsoft.com
