@@ -78,3 +78,8 @@ workers.dev
 hotdebrid.com
 activity.windows.com
 continuum.dds.microsoft.com
+auroraoss.com
+play-lh.googleusercontent.com
+play.googleapis.com
+android.clients.google.com
+android.apis.google.com
