@@ -83,3 +83,8 @@ play-lh.googleusercontent.com
 play.googleapis.com
 android.clients.google.com
 android.apis.google.com
+www3.doubleclick.net
+p.typekit.net
+sw.broadcom.com
+izatcloud.net
+xtracloud.net
