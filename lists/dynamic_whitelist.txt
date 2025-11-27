@@ -88,3 +88,4 @@ p.typekit.net
 sw.broadcom.com
 izatcloud.net
 xtracloud.net
+challanges.cloudflare.com
