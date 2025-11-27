@@ -89,3 +89,4 @@ sw.broadcom.com
 izatcloud.net
 xtracloud.net
 challanges.cloudflare.com
+googleads.g.doubleclick.net
