@@ -1112,3 +1112,6 @@ umengcloud.com
 vartoawhoghoa.com
 rezvorck.github.io
 supersonicads-a.akamaihd.net
+clienttracing-pa.googleapis.com
+googleads.g.doubleclick.net
+securepubads.g.doubleclick.net
