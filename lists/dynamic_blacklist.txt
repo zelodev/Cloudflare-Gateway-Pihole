@@ -1108,5 +1108,7 @@ ws.jonudeplin.shop
 ws.asedkop.world
 ulogs.umeng.com
 umeng.com
+umengcloud.com
 vartoawhoghoa.com
 rezvorck.github.io
+supersonicads-a.akamaihd.net
