@@ -1115,3 +1115,8 @@ supersonicads-a.akamaihd.net
 clienttracing-pa.googleapis.com
 googleads.g.doubleclick.net
 securepubads.g.doubleclick.net
+s.go-mpulse.net
+adsafeprotected.com
+static.adsafeprotected.com
+tru.am
+trmlabs.com
