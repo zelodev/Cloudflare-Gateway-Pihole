@@ -117,9 +117,7 @@ stats.g.doubleclick.net
 events3alt.adcolony.com
 wd.adcolony.com
 static.media.net
-google-analytics.com
 click.googleanalytics.com
-ssl.google-analytics.com
 adm.hotjar.com
 identify.hotjar.com
 insights.hotjar.com
@@ -154,7 +152,6 @@ static.matterport.com
 beacons.gvt2.com
 adserver.shadow.snapads.com
 adserver.snapads.com
-yt3.ggpht.com
 widgets.pinterest.com
 startup.mobile.yandex.net
 spinna.xyz
@@ -175,11 +172,9 @@ browser.sentry-cdn.com
 sessions.bugsnag.com
 opentelemetry.io
 api.instabug.com
-analytics.google.com
 360.cn
 360safe.com
 mcafee.com
-doubleclick.net
 affiliationjs.s3.amazonaws.com
 amazonaax.com
 adarabi.com
@@ -274,7 +269,6 @@ ads.mcafee.com
 advice-ads.s3.amazonaws.com
 pagead2.googlesyndication.com
 static.doubleclick.net
-m.doubleclick.net
 mediavisor.doubleclick.net
 ads-api.twitter.com
 ads.pinterest.com
@@ -287,7 +281,6 @@ filecaddy.cfd
 media.fastclick.net
 ads.facebook.com
 ads.reddit.com
-googleadservices.com
 benpoin.online
 onlineservicetec.com
 dusee.baidu.com
@@ -1112,11 +1105,18 @@ umengcloud.com
 vartoawhoghoa.com
 rezvorck.github.io
 supersonicads-a.akamaihd.net
+supersonicads.com
 clienttracing-pa.googleapis.com
 googleads.g.doubleclick.net
+pubads.g.doubleclick.net
 securepubads.g.doubleclick.net
 s.go-mpulse.net
 adsafeprotected.com
 static.adsafeprotected.com
 tru.am
 trmlabs.com
+isappcloud.com
+ironsrc.com
+platform.ironsrc.com
+is.com
+62.0.96.176
