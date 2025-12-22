@@ -89,8 +89,4 @@ sw.broadcom.com
 izatcloud.net
 xtracloud.net
 challanges.cloudflare.com
-googleads.g.doubleclick.net
 dit.whatsapp.net
-minerva.devices.a2z.com
-g.doubleclick.net
-pagead2.googlesyndication.com
