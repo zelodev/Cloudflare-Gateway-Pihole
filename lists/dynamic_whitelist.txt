@@ -90,3 +90,4 @@ izatcloud.net
 xtracloud.net
 challanges.cloudflare.com
 dit.whatsapp.net
+gew1-spclient.spotify.com
