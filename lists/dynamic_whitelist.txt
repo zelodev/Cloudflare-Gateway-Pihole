@@ -89,6 +89,5 @@ p.typekit.net
 sw.broadcom.com
 izatcloud.net
 challenges.cloudflare.com
-dit.whatsapp.net
 gew1-spclient.spotify.com
 blogspot.com
