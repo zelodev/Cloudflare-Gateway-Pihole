@@ -1112,6 +1112,8 @@ isappcloud.com
 ib.isappcloud.com
 ape-androids.isappcloud.com
 ape-androids1.isappcloud.com
+ape-androids2.isappcloud.com
+ape-eu.isappcloud.com
 persy.isappcloud.com
 assetscdn.isappcloud.com
 user-profile.isappcloud.com
