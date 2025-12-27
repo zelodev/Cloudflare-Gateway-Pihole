@@ -48,6 +48,7 @@ megaplusredirection.tedata.net
 ctrk.klclick.com
 jnn-pa.googleapis.com
 clients1.google.com
+clients2.google.com
 clients3.google.com
 clients4.google.com
 mtalk.google.com
@@ -87,8 +88,7 @@ www3.doubleclick.net
 p.typekit.net
 sw.broadcom.com
 izatcloud.net
-xtracloud.net
-challanges.cloudflare.com
+challenges.cloudflare.com
 dit.whatsapp.net
 gew1-spclient.spotify.com
 blogspot.com
