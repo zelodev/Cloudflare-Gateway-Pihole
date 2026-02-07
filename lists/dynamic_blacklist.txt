@@ -1093,8 +1093,13 @@ www.navegador-update.com
 ws.jonudeplin.shop
 ws.asedkop.world
 ulogs.umeng.com
+ulogs.umengcloud.com
+plbslog.umeng.com
+plbslog.umeng
 umeng.com
 umengcloud.com
+safe.mt2.cn
+aaid.umeng.com
 vartoawhoghoa.com
 rezvorck.github.io
 supersonicads-a.akamaihd.net
