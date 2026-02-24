@@ -259,6 +259,7 @@ shuc-js.ksord.com
 movip.wps.com
 service-mopdf.wps.com
 onesignal.com
+instaprime.cloudfam.io
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
