@@ -260,6 +260,8 @@ movip.wps.com
 service-mopdf.wps.com
 onesignal.com
 instaprime.cloudfam.io
+clientapi-motorola.dtignite.com
+download-motorola.dtignite.com
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
