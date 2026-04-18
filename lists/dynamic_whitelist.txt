@@ -111,3 +111,7 @@ drugeye.pharorg.com
 www.drugeye.pharorg.com
 208.98.35.84
 142.251.37.163
+gtm.svcmot.com
+dlmgr.gtm.svcmot.com
+dlmgredg-vz.gtm.svcmot.com
+lpa.live.esimdiscovery.com
