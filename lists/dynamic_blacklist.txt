@@ -288,7 +288,6 @@ ani3mt-dlsdk.appsflyersdk.com
 ani3mt-conversions.appsflyersdk.com
 ani3mt-gcdsdk.appsflyersdk.com
 ani3mt-inapps.appsflyersdk.com
-startup.mobile.yandex.net
 nexus-websocket-a.intercom.io
 irclcdxs-android.mobile-messenger.intercom.com
 mon-boot.tiktokv.com
