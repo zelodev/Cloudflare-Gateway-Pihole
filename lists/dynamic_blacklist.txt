@@ -1302,6 +1302,7 @@ api.mixpanel.com
 decide.mixpanel.com
 api.segment.io
 tracking.directservices.it
+devicenative.com
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
