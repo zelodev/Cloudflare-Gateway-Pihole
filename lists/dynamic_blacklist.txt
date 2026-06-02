@@ -273,6 +273,7 @@ o-sdk.mediation.unity3d.com
 cdn.iads.unity3d.com
 ae.iads.unity3d.com
 i-adq.mediation.unity3d.com
+inshot.cc
 bind.inshot.cc
 optifyr.com
 54ty7j.cdn-settings.appsflyersdk.com
