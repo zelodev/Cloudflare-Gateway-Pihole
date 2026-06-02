@@ -88,6 +88,7 @@ d900.dailyuploads.net
 megafiles.store
 cca.megafiles.store
 s1-filecr.xyz
+vhit.io
 
 outlook.office365.com
 login.microsoftonline.com
