@@ -1151,6 +1151,7 @@ qa-events-schema.viacom.tech
 trace.qq.com
 geico.com.ssl.sc.omtrdc.net
 dit.whatsapp.net
+e6.whatsapp.net
 analytics.redbubble.com
 stats-sg.ganymede.eu
 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
@@ -1304,6 +1305,7 @@ decide.mixpanel.com
 api.segment.io
 tracking.directservices.it
 devicenative.com
+in.appcenter.ms
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
@@ -1354,6 +1356,10 @@ redirector.gvt1.com
 googleadapis.l.google.com
 ssl-google-analytics.l.google.com
 www-google-analytics.l.google.com
+voledevice-pa.googleapis.com
+dead.boowithout.com
+yowzayearly.com
+flat.providedwell.com
 # sam
 360.cn
 360safe.com
