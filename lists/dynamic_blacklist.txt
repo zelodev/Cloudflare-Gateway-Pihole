@@ -1312,6 +1312,7 @@ api.segment.io
 tracking.directservices.it
 devicenative.com
 in.appcenter.ms
+totalprotectionscan.online
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
