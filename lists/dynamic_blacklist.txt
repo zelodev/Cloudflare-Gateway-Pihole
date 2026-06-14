@@ -484,6 +484,10 @@ s2s.singular.net
 singular.net
 perseus-productanalytics.deliveryhero.net
 mobile-collector.newrelic.com
+feedback.talabat.com
+service2.us.incognia.com
+service4.us.incognia.com
+o4509633184137216.ingest.us.sentry.io
 ntracker-collector.naver.com
 ace.naver.com
 metrics.spbtv.com
