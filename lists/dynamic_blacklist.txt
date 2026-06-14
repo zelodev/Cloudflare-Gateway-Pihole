@@ -305,6 +305,8 @@ survey-noneu.truecaller.com
 contact-lists-noneu.truecaller.com
 messenger-noneu.truecaller.com
 familygroup-noneu.truecaller.com
+tagging-assets-noneu.truecallerstatic.com
+tagging5-noneu.truecaller.com
 api.mshop.bdtelemetry.amazon
 session.mshopbugsnag.irm.amazon.dev
 trace.mshopbugsnag.irm.amazon.dev
