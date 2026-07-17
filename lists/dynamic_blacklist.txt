@@ -261,6 +261,8 @@ movip.wps.com
 service-mopdf.wps.com
 onesignal.com
 instaprime.cloudfam.io
+premium.instaprimeofficial.com
+instaprimeofficial.com
 clientapi-motorola.dtignite.com
 download-motorola.dtignite.com
 xplayer-42f31.web.app
