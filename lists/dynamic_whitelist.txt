@@ -116,3 +116,4 @@ gtm.svcmot.com
 dlmgr.gtm.svcmot.com
 dlmgredg-vz.gtm.svcmot.com
 lpa.live.esimdiscovery.com
+tdohex-official.page.gd
