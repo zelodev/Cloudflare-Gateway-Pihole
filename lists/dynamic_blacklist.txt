@@ -1520,6 +1520,27 @@ www.uptoplay.net
 wwwhisp.com
 xapi.shastic.com
 xiaoyuner.com
+adbsc.flyermobi.com
+adbsc.ikmytech.com
+adbsdk.flyermobi.com
+admin.dofunapps.com
+ads.dofunapps.com
+ads.flyermobi.com
+apkcar.com
+ats.flyermobi.com
+ats.ikmytech.com
+cbphe.com
+cbpheback.com
+dcylog.com
+flyermobi.com
+n1.flyermobi.com
+sdk.dofunapps.com
+www.apkcar.com
+www.flyermobi.com
+ycxrl.com
+ymex.apkcar.com
+ymlog.apkcar.com
+ymsdk.apkcar.com
 # goog
 www-googletagmanager.l.google.com
 ade.googlesyndication.com
