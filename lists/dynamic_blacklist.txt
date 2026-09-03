@@ -195,9 +195,6 @@ display-cdn.dh-adtech.net
 caduceus.online
 ingest-main-cf.telemetry.apso1.aws.indriverapp.com
 telemetry.apso1.aws.indriverapp.com
-ffbbbdc6d3c353211fe2ba39c9f744cd.com
-ffbbbdc6d3c353211fe2ba39c9f744cd.de
-sc-datasink.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 sc-abtest.ffe390afd658c19dcbf707e0597b846d.de
 mshopandroidphone.triggers-v1.prod.mobile.weblab.a2z.com
 adtago.s3.amazonaws.com
