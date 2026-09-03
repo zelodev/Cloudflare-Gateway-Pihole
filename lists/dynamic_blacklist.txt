@@ -310,6 +310,10 @@ messenger-noneu.truecaller.com
 familygroup-noneu.truecaller.com
 tagging-assets-noneu.truecallerstatic.com
 tagging5-noneu.truecaller.com
+batchlogging4-noneu.truecaller.com
+edge-locations5-noneu.truecaller.com
+device-safety-noneu.truecaller.com
+insights-categorizer-noneu.truecaller.com
 api.mshop.bdtelemetry.amazon
 session.mshopbugsnag.irm.amazon.dev
 trace.mshopbugsnag.irm.amazon.dev
