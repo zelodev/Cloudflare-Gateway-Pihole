@@ -1334,6 +1334,7 @@ control.kochava.com
 i.logrocket.com
 us.info.lgsmartad.com
 ngfts.lge.com
+aic-ngfts.lge.com
 ueiwsp.com
 vk-ads.com
 cookie-cdn.cookiepro.com
