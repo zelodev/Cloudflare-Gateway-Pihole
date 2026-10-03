@@ -919,7 +919,6 @@ vcs.zijieapi.com
 monsetting.toutiao.com
 atsod.launch.liveramp.com
 mob2.healthtrackergroup.com
-insights-categorizer-noneu.truecaller.com
 event-dot-learning-piano.appspot.com
 log.cleanertoolboxonline.live
 events.swiftlycontent.net
@@ -1547,8 +1546,6 @@ dcylog.com
 flyermobi.com
 n1.flyermobi.com
 sdk.dofunapps.com
-www.apkcar.com
-www.flyermobi.com
 ycxrl.com
 ymex.apkcar.com
 ymlog.apkcar.com
