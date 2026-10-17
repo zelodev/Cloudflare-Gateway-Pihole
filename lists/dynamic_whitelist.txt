@@ -64,6 +64,7 @@ www3.doubleclick.net
 2.android.pool.ntp.org
 
 challenges.cloudflare.com
+cdnjs.cloudflare.com
 workers.dev
 api.fast.com
 cdn.optimizely.com
@@ -72,6 +73,7 @@ cdn3.optimizely.com
 cdnjs.cloudflare.com
 fastly.net
 p.typekit.net
+d3js.org
 
 videasy.net
 api.videasy.net
