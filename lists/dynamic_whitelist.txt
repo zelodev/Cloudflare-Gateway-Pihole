@@ -91,6 +91,7 @@ megafiles.store
 cca.megafiles.store
 s1-filecr.xyz
 vhit.io
+modyolo.com
 
 outlook.office365.com
 login.microsoftonline.com
